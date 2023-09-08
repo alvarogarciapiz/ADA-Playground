@@ -1,4 +1,4 @@
-# listaEnlazadaFicherosenADA
+# Lectura de ficheros y creación de una lista enlazada en ADA
 Creación de una lista simplemente enlazada con una serie de nombres que se leen de un fichero en el lenguaje de programación ADA (tiempo real).
 
 Se incluye el fichero que deberá estar en el mismo directorio que el fichero 'lista.adb'
